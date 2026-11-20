@@ -64,43 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Nyman Media is a fractional Chief Marketing Officer (CMO) firm that embeds senior marketing operators within technology companies to drive growth. Founded by Lars Nyman, the company offers AI‑Readiness audits, strategic marketing plans, and ongoing executive‑level marketing leadership on a retainer basis. It serves venture‑backed scale‑ups, private‑equity portfolio companies, and enterprise GTM teams navigating AI‑driven market changes. The firm emphasizes measurable outcomes, AI‑enhanced discovery, and long‑term partnership to improve acquisition, retention, and brand perception.
+Nyman Media is a fractional Chief Marketing Officer (CMO) firm that embeds senior marketing operators within technology companies to drive growth. Leveraging AI‑readiness audits, generative engine optimization, and strategic marketing leadership, the company helps tech firms improve acquisition, retention, and AI‑driven discoverability. Founded by Lars Nyman, the firm serves venture‑backed scale‑ups, PE‑backed portfolios, and enterprise GTM teams, offering retainer‑based, embedded leadership rather than episodic consulting.
 
-**Areas:** Marketing · Fractional CMO · AI · Growth · Technology
+**Areas:** Marketing · Fractional CMO · AI · Technology · Growth
 
 ## Nyman Media on APIs.io
 
 Everything profiled for Nyman Media is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nyman-media/](https://apis.io/providers/nyman-media/)** — or go straight to one of the APIs or properties below.
 
-### APIs (2)
-
-- [Nyman Media API](https://apis.io/apis/nyman-media/nyman-media-api-2/) — API for Nyman Media's audit and analytics services
-- [Nyman Media API](https://apis.io/apis/nyman-media/nyman-media-api/) — Nyman Media API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-11-19); not the provider's own document.
-
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
-
-#### JSON Schema (4)
-
-The data models the API reads and writes.
-
-- [PostApiV1AuditsRequest](https://apis.io/schemas/nyman-media/nyman-media-post-api-v1-audits-request/)
-- [PostApiV1AuditsResponse](https://apis.io/schemas/nyman-media/nyman-media-post-api-v1-audits-response/)
-- [PostApiV1FixesRequest](https://apis.io/schemas/nyman-media/nyman-media-post-api-v1-fixes-request/)
-- [PostApiV1FixesResponse](https://apis.io/schemas/nyman-media/nyman-media-post-api-v1-fixes-response/)
-
-#### JSON-LD (1)
-
-Linked-data contexts for the provider's vocabulary.
-
-- [Nyman Media Context](https://apis.io/jsonld/nyman-media/nyman-media-context/)
-
-#### Governance rules (1)
-
-Spectral rulesets for the provider's contracts.
-
-- [Nyman Media API Rules](https://apis.io/rules/nyman-media/nyman-media-rules/)
 
 #### Security (2)
 
@@ -125,38 +99,39 @@ Published request limits.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://nyman.media/)
-- [Documentation](https://www.nyman.media/about)
+- [Website](https://www.nyman.media/)
+- [Documentation](https://www.nyman.media/guides)
 - [API reference](https://app.nyman.media/docs/api/reference)
 - [Pricing](https://app.nyman.media/pricing)
+- [Blog](https://www.nyman.media/editorial)
 - [Terms of service](https://app.nyman.media/terms)
 - [Privacy policy](https://www.nyman.media/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 50.2** — developing · rubric 0.28.0 · scored 2026-11-20
+**Kin Score 26.3** — thin · rubric 0.28.0 · scored 2026-11-20
 
 | Facet | Score |
 |---|---|
-| Discoverability | 67.9 |
-| Contract quality | 50.3 |
-| Contract governance | 79.1 |
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
 | Operational transparency | 17.1 |
-| Developer ergonomics | 45.2 |
+| Developer ergonomics | 31.0 |
 | Access clarity | 48.5 |
 
-**Agent readiness 28.0** — agent-aware
+**Agent readiness 11.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
-| Spec Presence | yes |
+| Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
-| OpenAPI Examples | partial |
+| OpenAPI Examples | — |
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | — |
@@ -169,7 +144,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
-| Operation Distinctiveness | distinct |
+| Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
 **Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
